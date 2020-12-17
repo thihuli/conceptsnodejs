@@ -1,0 +1,12 @@
+{
+  "name": "servernode-js",
+  "version": "1.0.0",
+  "description": "server create whit nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "test start"
+  },
+  "author": "Thiago Fernandes",
+  "license": "ISC"
+}
